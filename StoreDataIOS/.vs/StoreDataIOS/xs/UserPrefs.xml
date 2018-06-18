@@ -1,7 +1,13 @@
 ﻿<Properties StartupConfiguration="{674E5201-BA65-403D-BD48-FCF790154CDA}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreDataIOS/ListController.cs">
     <Files>
       <File FileName="StoreDataIOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="StoreDataIOS/Main.storyboard" />
+      <File FileName="StoreDataIOS/Contacts.cs" Line="19" Column="6" />
+      <File FileName="StoreDataIOS/TableSource.cs" Line="27" Column="126" />
+      <File FileName="StoreDataIOS/ViewController.cs" Line="19" Column="45" />
+      <File FileName="StoreDataIOS/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="StoreDataIOS/ListController.cs" Line="14" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -11,7 +17,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../../Documents/IN Proj/Projects/Stadium/src/Droid/Views/Feedback/FeedbackWindow.cs" line="48" offsetX="537" offsetY="846" expression="parent" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.StoreDataIOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3FF0FA9F-427C-473D-8E05-1C4173EF1A31" FirstBuild="True">
+  <MonoDevelop.Ide.ItemProperties.StoreDataIOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3FF0FA9F-427C-473D-8E05-1C4173EF1A31">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.StoreDataIOS>
   <MultiItemStartupConfigurations />
