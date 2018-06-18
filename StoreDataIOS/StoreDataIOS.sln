@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreDataIOS", "StoreDataIOS\StoreDataIOS.csproj", "{674E5201-BA65-403D-BD48-FCF790154CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Release|iPhone.Build.0 = Release|iPhone
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{674E5201-BA65-403D-BD48-FCF790154CDA}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
